@@ -1,6 +1,6 @@
 """
  Diseñar un programa para calcular el impuesto sobre la renta (ISR) correspondiente a un sueldo mensual dado. El ISR se calcula usando la tarifa de la siguiente tabla.
- 750722
+ 750722.
 """
 
 sueldo = float(input("Ingrese el sueldo mensual: "))
